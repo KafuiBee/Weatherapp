@@ -1,0 +1,70 @@
+h1 {
+  font-family: "Victor Mono", monospace;
+  color: blue;
+  margin: 0;
+  text-align: right;
+top:50%;
+ 
+}
+
+input {
+  min-width: 300px;
+}
+
+.Monday {
+  color: grey;
+  font-size: 48px;
+  text-align: center;
+}
+.Tuesday {
+  color: grey;
+  font-size: 48px;
+  text-align: center;
+}
+.Wednesday {
+  color: skyblue;
+  font-size: 48px;
+  text-align: center;
+}
+
+.bg-image {
+  background-image: url('Image/Cloudy.jpg');">
+}
+
+.Thursday {
+  color: grey;
+  font-size: 48px;
+  text-align: center;
+}
+.Friday {
+  color: grey;
+  font-size: 48px;
+  text-align: center;
+}
+
+.icon container {
+  align-items: center;
+}
+.form-control {
+  width: 30%;
+  top: right;
+  display: block;
+  margin-left: 150px;
+}
+.card:hover {
+  background: #007cb9;
+  cursor: pointer;
+  transition: ease-in-out;
+  border-color: yellow;
+}
+.btn btn-primary {
+  margin-left: 610px;
+  display: flex;
+  width: 10%;
+  justify-content: center;
+  position: 294.95 x 37.6;
+  margin-top: 36px;
+}
+body {
+  background-color: #e7eaf6;
+}
